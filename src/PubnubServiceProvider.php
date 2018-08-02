@@ -1,8 +1,8 @@
-<?php namespace Cwt137\PubnubDriver;
+<?php namespace Vijaytupakula\PubnubDriver;
 
 use Illuminate\Support\ServiceProvider;
 use Pubnub\Pubnub;
-use Cwt137\PubnubDriver\PubnubBroadcaster;
+use Vijaytupakula\PubnubDriver\PubnubBroadcaster;
 
 class PubnubServiceProvider extends ServiceProvider {
 

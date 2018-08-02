@@ -1,4 +1,4 @@
-<?php namespace Cwt137\PubnubDriver;
+<?php namespace Vijaytupakula\PubnubDriver;
 
 use Pubnub\Pubnub;
 use Illuminate\Contracts\Broadcasting\Broadcaster;
