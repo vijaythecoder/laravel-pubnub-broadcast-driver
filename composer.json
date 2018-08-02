@@ -1,5 +1,5 @@
 {
-    "name": "cwt137/laravel-pubnub-broadcast-driver",
+    "name": "vijaythecoder/laravel-pubnub-broadcast-driver",
     "description": "PubNub broadcasting events driver for Laravel",
     "license": "MIT",
     "authors": [
@@ -14,7 +14,7 @@
         }
     },
     "require": {
-        "pubnub/pubnub": "~3.7",
-        "laravel/framework": "~5.1"
+        "pubnub/pubnub": "~4.0",
+        "laravel/framework": "~5.6"
     }
 }
